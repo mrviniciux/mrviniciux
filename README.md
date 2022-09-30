@@ -1,7 +1,7 @@
 ### Hi! My name is Marcos :)
 
 - 🔭 I’m a Front End Developer (React);
-- ☄️ I’m currently learning Elixir;
+- ☄️ I’m currently learning Devops concepts using ArgoCD and Github Actions
 - 💁🏻‍♂️ Pronouns: He/Him.
 
 <div>
