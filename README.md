@@ -16,7 +16,7 @@
   <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
    <img align="center" alt="Gab-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
-  <img align="right" alt="Mr. Robot" src="https://i.giphy.com/media/oFvFtrhrmIFFe/giphy.webp">
+  <!-- <img align="right" alt="Mr. Robot" src="https://i.giphy.com/media/oFvFtrhrmIFFe/giphy.webp"> -->
 </div>
   
   ##
