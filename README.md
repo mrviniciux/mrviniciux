@@ -1,7 +1,7 @@
 ### Hi! My name is Marcos :)
 
-- 🔭 I’m a Front End Developer (React);
-- ☄️ I’m currently learning Devops concepts using ArgoCD and Github Actions
+- 🔭 I’m a Senior Front End Engineer (NextJS/Typescript);
+- ☄️ Currently focusing on React, Vite, Tests
 - 💁🏻‍♂️ Pronouns: He/Him.
 
 <div>
